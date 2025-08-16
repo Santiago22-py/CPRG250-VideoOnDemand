@@ -1,0 +1,51 @@
+category_id,category_name,parent_category_id
+1,Action,
+2,Adventure,
+3,Animation,
+4,Comedy,
+5,Crime,
+6,Documentary,
+7,Drama,
+8,Family,
+9,Fantasy,
+10,History,
+11,Horror,
+12,Music,
+13,Mystery,
+14,Romance,
+15,Sci-Fi,
+16,Sport,
+17,Thriller,
+18,Western,
+19,Teen Romance,14
+20,True Crime,5
+21,Martial Arts,1
+22,Detective Mysteries,13
+23,Cozy Mysteries,13
+24,Supernatural Horror,11
+25,High Fantasy,9
+26,Nature Documentaries,6
+27,Psychological Thrillers,17
+28,Extreme Sports,16
+29,War Action,1
+30,Water Sports,16
+31,Historical Documentaries,6
+32,Organized Crime,5
+33,Winter Sports,16
+34,Slapstick Comedy,4
+35,Spy Action,1
+36,Cybercrime,5
+37,Crime Thrillers,17
+38,Forensic Crime,5
+39,Biographical Documentaries,6
+40,Zombie Horror,11
+41,Dark Comedy,4
+42,Science Documentaries,6
+43,Animated Family,8
+44,Children's Entertainment,8
+45,Space Opera,15
+46,Survival Adventure,2
+47,Urban Fantasy,9
+48,Paranormal Horror,11
+49,Disaster Action,1
+50,Vampire Horror,11

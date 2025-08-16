@@ -1,0 +1,1201 @@
+movie_id,title,duration_min,rating_code,sd_price,hd_price,is_new_release,is_most_popular,is_coming_soon
+1,Shadow of the Hidden Whisper,165,PG,6.81,8.50,false,false,false
+2,Fading Kingdom,93,R,4.09,5.86,false,true,true
+3,Horizon of the Shattered Voyage,112,PG,6.47,9.28,false,false,false
+4,Kingdom of the Dark Riddle,160,A,5.63,7.56,false,false,false
+5,Beyond the Brave Odyssey,125,18A,5.55,7.79,false,true,false
+6,Chronicles of the Silent Awakening,91,A,4.20,8.67,true,false,false
+7,Pulse of the Wild Empire,159,G,6.03,8.51,false,false,false
+8,Beyond the Brave Voyage,104,PG,4.39,8.58,false,false,false
+9,Stormy Awakening,167,14A,6.66,11.21,false,false,false
+10,Awakening of the Savage Legacy,81,PG,4.54,8.39,false,false,false
+11,Chronicles of the Shattered Secret,105,14A,5.32,6.32,false,true,false
+12,The Shattered Mirage,167,G,6.92,11.24,false,false,false
+13,Riddle of the Brave Mirage,129,A,6.73,10.14,false,false,false
+14,Memory of the Savage Labyrinth,166,G,6.79,7.89,false,true,false
+15,Stormy Horizon,114,PG,4.78,9.56,false,false,true
+16,Horizon of the Ghostly Pulse,142,14A,6.66,8.54,false,false,false
+17,Into the Storm,94,G,3.60,5.73,false,false,true
+18,Beyond the Silent Shadow,139,18A,5.74,6.82,false,false,false
+19,The Savage Memory,144,14A,3.93,7.41,false,true,false
+20,The Crimson Legacy,167,R,5.19,6.82,false,true,true
+21,Riddle of the Silent Empire,114,18A,5.31,6.79,false,false,false
+22,Wild Legacy,117,R,5.22,7.40,false,false,false
+23,Dark Labyrinth,141,PG,3.34,6.27,false,false,false
+24,Shattered Secret,161,R,3.83,8.03,false,false,false
+25,The Fading Pulse,99,G,6.69,9.34,false,false,false
+26,Golden Reckoning,177,G,6.82,10.62,false,false,false
+27,Beyond the Lost Empire,154,A,4.99,6.30,false,true,false
+28,Empire of the Wild Voyage,139,PG,4.28,9.12,false,false,false
+29,Into the Horizon,124,R,5.49,6.82,false,false,false
+30,Chronicles of the Silent Pulse,132,PG,6.60,9.13,true,false,false
+31,Chronicles of the Lonely Promise,85,18A,5.70,7.49,false,false,false
+32,Storm of the Last Awakening,100,A,5.86,8.02,false,true,false
+33,Voyage of the Infinite Pulse,138,PG,5.46,8.04,false,true,true
+34,The Broken Reckoning,89,G,5.67,6.97,false,false,false
+35,Chronicles of the Lost Legacy,156,18A,3.03,5.56,true,false,false
+36,Silent Riddle,159,G,4.00,5.04,true,true,false
+37,Chronicles of the Furious Promise,99,G,6.70,10.86,false,false,false
+38,Odyssey of the First Shadow,107,PG,4.17,8.26,false,false,false
+39,The Savage Echo,137,A,3.55,5.33,false,true,false
+40,Silent Odyssey,103,G,6.15,10.11,false,true,false
+41,Memory of the Brave Whisper,155,R,4.98,7.81,false,false,false
+42,Chronicles of the Lost Riddle,162,18A,4.01,7.65,false,true,false
+43,Wild Voyage,133,PG,3.98,8.83,false,false,false
+44,Return of the Echo,170,R,5.98,9.87,false,false,false
+45,Legacy of the Fading Shadow,93,18A,6.82,7.94,false,true,false
+46,Broken Pulse,146,G,3.50,6.34,false,false,false
+47,Beyond the Silent Reckoning,143,14A,3.88,6.70,false,false,true
+48,Labyrinth of the Radiant Empire,150,A,3.81,5.66,true,false,false
+49,Kingdom of the Ghostly Empire,159,18A,6.38,9.72,false,false,true
+50,Savage Pulse,94,G,3.88,7.02,false,false,false
+51,Radiant Promise,98,G,6.85,8.02,false,false,false
+52,The Fading Labyrinth,132,G,6.27,8.74,false,false,false
+53,Beyond the Stormy Odyssey,180,14A,3.19,6.97,false,false,false
+54,The Lost Empire,170,R,3.68,4.71,false,false,false
+55,Beyond the First Riddle,91,G,3.62,7.13,false,false,false
+56,Voyage of the Stormy Promise,148,G,6.14,8.22,false,true,false
+57,Beyond the Crimson Storm,124,A,3.51,5.46,false,false,false
+58,The Crimson Mirage,146,PG,5.23,8.70,false,false,false
+59,The Wild Echo,165,R,4.02,7.41,false,true,false
+60,Memory of the Savage Horizon,150,A,6.34,10.44,false,false,false
+61,The Ghostly Legacy,122,18A,6.24,10.61,true,false,false
+62,Chronicles of the Fading Whisper,131,R,6.29,10.66,false,false,false
+63,Whisper of the First Shadow,98,18A,4.62,6.59,false,false,false
+64,Chronicles of the Dark Echo,174,18A,3.87,5.86,true,false,false
+65,Chronicles of the Lost Whisper,87,R,6.04,9.11,false,true,false
+66,Chronicles of the Infinite Storm,150,A,4.56,8.12,false,false,true
+67,Storm of the Hidden Kingdom,178,PG,5.25,7.96,false,false,false
+68,Empire of the Silent Pulse,120,A,6.40,9.54,false,true,false
+69,Rise of the Promise,148,14A,6.48,10.59,false,true,false
+70,Labyrinth of the First Reckoning,124,A,4.93,9.55,true,false,false
+71,Odyssey of the Infinite Mirage,159,18A,6.29,9.26,false,false,false
+72,The Savage Voyage,148,G,5.25,8.76,false,true,true
+73,Beyond the First Labyrinth,166,G,6.83,9.27,true,false,false
+74,Beyond the Infinite Voyage,122,A,6.50,10.53,false,false,false
+75,Beyond the Fading Shadow,134,14A,6.88,8.02,false,false,false
+76,Chronicles of the Lost Empire,119,PG,3.67,8.57,false,false,false
+77,Fading Shadow,88,G,6.15,7.45,false,false,false
+78,Beyond the Stormy Mirage,96,A,5.31,7.16,true,true,false
+79,Chronicles of the Savage Pulse,125,R,4.53,6.95,false,true,false
+80,The Last Promise,146,18A,5.04,9.79,false,false,false
+81,Beyond the First Echo,138,18A,3.10,6.32,false,true,false
+82,Echo of the Fading Kingdom,160,A,5.36,9.15,false,false,false
+83,The Ghostly Secret,178,R,6.58,7.90,false,false,false
+84,Dark Secret,111,A,5.67,8.90,false,false,false
+85,Savage Frontier,131,18A,4.82,9.03,false,false,false
+86,The Last Odyssey,160,R,3.87,5.11,false,false,false
+87,Awakening of the Stormy Pulse,166,18A,5.89,7.62,false,false,false
+88,The Wild Mirage,177,A,5.12,8.49,false,false,false
+89,Chronicles of the Infinite Voyage,142,PG,6.64,8.96,false,false,true
+90,Stormy Riddle,171,G,5.24,8.25,false,false,false
+91,The Shattered Secret,86,18A,4.94,7.12,false,false,false
+92,Beyond the Wild Whisper,95,14A,4.09,8.82,false,false,false
+93,Riddle of the Last Horizon,104,R,5.62,9.52,false,false,false
+94,Beyond the Ghostly Memory,168,PG,6.29,8.68,false,false,false
+95,Radiant Empire,102,G,6.82,10.84,false,true,true
+96,Into the Echo,142,G,5.89,7.97,false,false,false
+97,Storm of the First Whisper,176,14A,3.40,6.28,true,false,false
+98,Riddle of the Radiant Pulse,129,PG,5.98,7.67,false,false,false
+99,Chronicles of the Silent Whisper,177,14A,4.54,5.70,false,false,false
+100,The Ghostly Labyrinth,150,18A,5.50,10.11,false,false,false
+101,Chronicles of the Savage Memory,139,A,3.35,4.49,false,false,false
+102,Ghostly Labyrinth,140,G,5.07,9.92,false,false,false
+103,Beyond the Silent Memory,128,G,5.47,7.11,false,false,false
+104,Return of the Storm,170,R,5.04,6.99,false,false,false
+105,Ghostly Voyage,139,R,6.22,10.45,true,false,false
+106,Crimson Awakening,153,R,6.46,8.02,true,false,false
+107,Voyage of the Brave Frontier,108,R,4.12,6.01,false,false,false
+108,Horizon of the Lost Awakening,110,14A,6.87,10.47,false,false,false
+109,Horizon of the Shattered Empire,131,A,5.51,9.61,false,true,false
+110,The Wild Awakening,124,R,5.66,7.91,false,false,false
+111,Beyond the Shattered Horizon,165,R,3.20,4.46,false,false,false
+112,The Ghostly Mirage,156,A,6.22,9.06,false,false,false
+113,Return of the Promise,150,18A,4.30,5.99,false,false,false
+114,Promise of the Lost Pulse,131,14A,3.00,7.48,false,true,false
+115,Return of the Horizon,162,R,5.00,7.92,false,true,false
+116,The Crimson Pulse,157,PG,6.50,7.94,false,true,false
+117,Secret of the Stormy Labyrinth,159,A,3.19,5.11,false,false,false
+118,Beyond the Wild Awakening,169,A,4.76,8.20,false,true,false
+119,Into the Riddle,179,A,5.80,9.55,false,false,false
+120,Memory of the Fading Awakening,108,A,6.90,11.90,false,false,false
+121,The Hidden Shadow,146,14A,5.56,9.76,false,false,false
+122,Wild Secret,144,A,4.69,8.47,false,false,true
+123,Beyond the Wild Kingdom,107,14A,5.46,7.78,false,false,false
+124,Storm of the Hidden Horizon,152,G,6.88,9.12,true,true,false
+125,Beyond the Hidden Kingdom,151,A,3.14,5.51,false,false,false
+126,Chronicles of the Radiant Shadow,127,A,6.37,10.82,false,false,true
+127,Chronicles of the Infinite Secret,134,14A,6.98,10.34,false,false,false
+128,Shadow of the Infinite Legacy,174,R,3.27,6.07,false,false,false
+129,Beyond the Dark Mirage,145,18A,5.74,7.44,false,false,true
+130,Chronicles of the Brave Voyage,86,14A,3.69,7.35,false,true,false
+131,Chronicles of the Crimson Voyage,80,18A,6.70,11.54,true,false,false
+132,Chronicles of the Broken Promise,85,R,5.43,9.22,false,false,false
+133,Riddle of the Hidden Awakening,172,R,4.24,7.46,false,false,false
+134,Chronicles of the Brave Echo,174,A,5.92,7.57,false,false,false
+135,Rise of the Storm,90,18A,4.48,9.04,false,false,true
+136,Beyond the Fading Legacy,133,18A,3.90,8.44,false,false,false
+137,Chronicles of the Brave Secret,144,18A,5.30,10.07,true,true,false
+138,Crimson Shadow,146,18A,4.33,7.64,false,false,false
+139,Memory of the Ghostly Frontier,137,R,6.51,9.62,false,false,false
+140,Frontier of the Last Empire,139,G,5.37,9.46,true,false,false
+141,Chronicles of the Last Awakening,120,R,6.99,9.09,false,false,false
+142,Chronicles of the Silent Legacy,165,18A,4.60,8.35,false,false,false
+143,Empire of the First Voyage,85,14A,6.02,8.31,false,false,true
+144,Beyond the Lost Awakening,109,G,5.52,10.36,true,false,false
+145,Labyrinth of the Dark Awakening,95,PG,3.79,4.85,false,false,true
+146,Riddle of the Last Secret,164,14A,3.37,5.19,false,false,false
+147,Echo of the Lost Promise,80,R,3.75,7.24,true,false,true
+148,Chronicles of the Infinite Riddle,106,14A,5.94,8.80,false,false,false
+149,Echo of the Savage Frontier,175,G,3.25,8.21,false,false,false
+150,Brave Voyage,140,PG,4.78,9.30,false,false,false
+151,Chronicles of the Golden Kingdom,119,PG,4.02,7.64,false,false,false
+152,The Lost Horizon,109,18A,6.39,10.81,false,false,false
+153,Rise of the Secret,119,A,6.41,7.41,false,false,false
+154,Beyond the Wild Storm,104,14A,3.32,8.19,false,false,false
+155,Awakening of the Ghostly Reckoning,142,PG,5.67,7.76,true,true,false
+156,Beyond the Fading Echo,142,PG,5.14,6.74,false,true,false
+157,Awakening of the Fading Voyage,170,PG,6.33,10.29,false,false,false
+158,Whisper of the Last Kingdom,162,PG,3.33,5.55,false,false,true
+159,Kingdom of the Lonely Storm,136,14A,4.24,6.19,false,false,false
+160,Memory of the Hidden Storm,119,14A,6.13,8.55,true,false,false
+161,Beyond the Savage Reckoning,145,R,4.91,9.13,false,false,false
+162,Beyond the Dark Reckoning,148,R,3.63,8.54,true,false,false
+163,Wild Echo,172,18A,5.19,6.53,true,true,false
+164,Lonely Echo,143,A,6.29,10.29,false,false,false
+165,Beyond the Silent Empire,132,G,5.25,7.73,false,false,false
+166,Return of the Secret,138,A,3.38,8.17,false,false,false
+167,Whisper of the Savage Secret,111,G,6.13,10.20,true,true,true
+168,The Silent Legacy,87,14A,3.53,8.46,true,false,false
+169,Legacy of the Silent Voyage,87,14A,6.67,10.00,false,false,false
+170,Chronicles of the First Echo,173,G,6.06,10.99,false,false,false
+171,Last Secret,145,A,6.01,7.97,false,false,true
+172,The Broken Pulse,90,R,4.66,7.12,true,true,true
+173,Ghostly Pulse,99,G,6.57,8.88,false,false,false
+174,Beyond the Ghostly Promise,107,PG,6.85,11.30,false,false,false
+175,Kingdom of the Silent Legacy,130,R,6.82,10.62,false,false,false
+176,Secret of the First Reckoning,83,14A,5.24,8.59,false,false,false
+177,The Fading Horizon,163,R,4.49,8.40,true,false,false
+178,Chronicles of the Lonely Odyssey,105,14A,5.02,6.66,false,true,false
+179,Beyond the Crimson Legacy,172,18A,6.17,8.65,false,false,false
+180,Beyond the First Pulse,120,R,6.88,11.88,false,false,true
+181,Mirage of the Wild Empire,160,G,5.30,9.88,false,false,false
+182,Echo of the Silent Labyrinth,130,R,5.13,9.65,false,true,false
+183,Infinite Whisper,130,14A,3.80,5.04,false,false,false
+184,The Infinite Storm,145,PG,6.62,8.47,false,true,false
+185,Chronicles of the Lonely Empire,153,G,4.61,8.14,false,false,false
+186,The Hidden Memory,115,14A,4.39,6.25,false,false,false
+187,Fading Horizon,127,R,4.14,7.02,true,false,false
+188,Shattered Voyage,91,A,2.99,6.51,false,false,false
+189,Awakening of the Golden Empire,90,PG,3.93,6.04,false,false,false
+190,Beyond the Dark Shadow,123,R,6.73,10.42,false,false,false
+191,Furious Shadow,134,R,6.35,7.86,false,false,false
+192,Voyage of the Lost Riddle,129,PG,4.10,7.82,false,false,false
+193,Crimson Memory,91,R,6.82,11.26,false,false,false
+194,Return of the Riddle,176,18A,4.83,7.93,false,true,false
+195,The Golden Echo,130,14A,3.83,7.57,false,false,false
+196,Hidden Secret,99,A,3.29,6.86,false,false,false
+197,The Furious Shadow,126,G,6.09,9.01,true,false,false
+198,The Savage Shadow,143,R,6.95,9.66,false,true,true
+199,The Golden Labyrinth,92,14A,6.68,10.27,false,false,false
+200,Storm of the Fading Echo,136,G,3.83,5.59,false,false,false
+201,Chronicles of the Broken Horizon,178,18A,4.23,8.72,false,false,false
+202,The Brave Promise,92,R,3.20,5.78,true,false,false
+203,Chronicles of the Stormy Mirage,169,A,3.00,7.13,false,false,false
+204,Beyond the Crimson Horizon,165,R,3.08,6.15,false,false,false
+205,Echo of the Hidden Kingdom,92,14A,6.02,7.95,true,false,false
+206,Crimson Echo,123,G,3.10,5.48,false,true,false
+207,Chronicles of the Silent Labyrinth,85,A,6.27,10.50,false,false,false
+208,Beyond the Lonely Whisper,145,R,3.30,4.75,false,true,false
+209,Echo of the Silent Empire,180,18A,6.45,9.18,false,false,false
+210,Chronicles of the Hidden Kingdom,87,PG,6.90,10.98,false,true,false
+211,Beyond the Stormy Echo,169,18A,6.65,8.07,false,false,false
+212,Chronicles of the Furious Kingdom,137,A,4.20,7.73,false,false,false
+213,Secret of the Infinite Reckoning,166,14A,6.16,9.99,false,false,false
+214,The Radiant Empire,96,G,4.01,5.79,false,true,false
+215,Beyond the Crimson Mirage,95,PG,5.70,10.69,false,false,false
+216,Hidden Whisper,173,18A,3.32,5.38,true,true,true
+217,Legacy of the Last Voyage,97,G,4.45,6.62,false,false,false
+218,The Golden Empire,138,G,4.12,8.33,true,false,false
+219,Secret of the Last Empire,102,14A,6.63,11.44,false,false,false
+220,Whisper of the Golden Legacy,122,14A,6.55,8.79,false,false,false
+221,Into the Reckoning,85,PG,3.72,5.40,false,true,false
+222,Infinite Empire,132,14A,3.97,5.07,false,false,false
+223,Beyond the Furious Frontier,112,R,5.32,9.68,false,false,false
+224,The Silent Kingdom,146,A,5.37,9.57,false,false,false
+225,The Last Echo,161,14A,3.63,7.80,false,true,false
+226,Mirage of the Stormy Awakening,97,G,5.59,7.34,false,false,false
+227,The Shattered Horizon,153,R,5.53,9.10,true,false,false
+228,Beyond the Shattered Secret,87,PG,5.36,6.37,false,false,false
+229,Chronicles of the Shattered Storm,138,A,3.59,7.67,false,false,false
+230,Chronicles of the Lost Echo,88,PG,5.99,8.73,false,false,false
+231,Beyond the Shattered Odyssey,171,G,4.44,5.56,false,false,false
+232,Awakening of the Hidden Whisper,116,A,5.46,8.89,false,false,false
+233,Chronicles of the Brave Legacy,175,R,3.10,5.69,false,false,true
+234,Beyond the Stormy Labyrinth,178,G,3.61,8.47,false,false,false
+235,Beyond the Furious Labyrinth,99,PG,6.02,9.69,false,true,false
+236,The Lost Echo,144,R,6.37,9.62,false,true,false
+237,Radiant Voyage,110,R,4.32,6.77,false,true,true
+238,Empire of the Shattered Storm,99,A,5.86,9.20,false,false,false
+239,Chronicles of the Radiant Awakening,104,14A,4.81,9.76,false,false,false
+240,Beyond the Lonely Horizon,180,18A,3.94,6.25,false,false,false
+241,Legacy of the Lonely Secret,122,G,4.78,9.08,false,false,false
+242,Frontier of the Infinite Mirage,134,PG,6.84,9.66,false,false,false
+243,Beyond the Furious Riddle,159,18A,6.41,11.29,false,false,false
+244,Promise of the Crimson Echo,89,G,5.27,9.98,false,false,false
+245,Pulse of the Shattered Odyssey,125,R,3.97,8.04,false,false,false
+246,The Crimson Kingdom,175,PG,5.22,9.90,false,false,false
+247,First Legacy,89,PG,6.45,7.45,false,false,false
+248,Beyond the Infinite Riddle,155,G,5.64,8.82,false,false,false
+249,Odyssey of the Wild Frontier,100,18A,6.30,8.92,false,false,false
+250,Shattered Promise,174,PG,4.62,9.10,false,false,false
+251,Legacy of the Lonely Voyage,117,14A,4.77,6.86,false,false,false
+252,Beyond the Shattered Echo,83,18A,3.08,6.73,false,true,false
+253,Mirage of the Lonely Labyrinth,138,18A,3.07,4.90,false,false,false
+254,Chronicles of the Last Reckoning,166,PG,3.35,5.71,false,false,false
+255,Shattered Empire,151,G,5.76,8.35,true,false,false
+256,Labyrinth of the Lonely Odyssey,142,R,6.02,7.39,false,true,false
+257,Whisper of the Silent Riddle,156,A,5.50,9.35,false,true,false
+258,Horizon of the Infinite Reckoning,116,PG,5.56,10.35,false,true,false
+259,Shattered Kingdom,119,PG,4.64,7.37,false,false,false
+260,Beyond the Broken Kingdom,165,G,6.26,10.87,false,false,false
+261,Shadow of the First Whisper,101,18A,6.74,7.90,false,false,false
+262,Chronicles of the Hidden Voyage,90,R,3.30,6.02,false,false,false
+263,Pulse of the Shattered Storm,165,18A,5.21,8.29,true,true,true
+264,Wild Pulse,128,18A,3.63,7.32,false,false,false
+265,Rise of the Memory,87,G,6.34,10.54,false,false,false
+266,Chronicles of the Hidden Horizon,146,14A,3.87,8.06,false,false,false
+267,Beyond the Golden Frontier,153,R,5.46,9.37,false,false,false
+268,Chronicles of the Wild Reckoning,89,A,3.37,5.79,false,false,true
+269,Beyond the Brave Horizon,125,A,4.04,6.16,false,false,false
+270,Ghostly Reckoning,131,R,6.46,7.83,false,false,false
+271,Wild Horizon,104,R,5.44,9.88,false,false,false
+272,Odyssey of the Broken Secret,95,14A,5.03,9.09,false,false,false
+273,Lonely Promise,95,14A,6.49,9.27,false,false,false
+274,Promise of the Dark Whisper,155,R,3.96,7.83,true,false,false
+275,The Crimson Labyrinth,115,R,4.54,7.24,false,false,true
+276,The Radiant Storm,165,R,5.45,7.52,false,false,false
+277,Crimson Horizon,122,18A,6.56,7.71,true,false,false
+278,Chronicles of the Wild Secret,157,R,6.05,10.60,false,false,true
+279,Echo of the Wild Reckoning,150,A,6.16,10.51,false,false,false
+280,Odyssey of the Crimson Voyage,104,G,4.88,7.65,false,true,false
+281,The Stormy Storm,172,14A,2.99,7.43,false,false,false
+282,Chronicles of the Ghostly Pulse,85,A,5.95,10.03,false,false,false
+283,Echo of the Infinite Memory,155,PG,6.21,8.47,false,false,false
+284,The Dark Memory,83,R,4.42,6.84,false,false,false
+285,The Crimson Storm,143,18A,3.51,5.97,false,false,false
+286,Into the Promise,112,A,4.60,7.88,false,false,true
+287,Shattered Echo,130,14A,6.77,11.04,false,false,false
+288,Infinite Reckoning,163,18A,3.09,5.17,false,false,false
+289,Chronicles of the Dark Secret,113,14A,3.54,6.15,false,false,false
+290,The Lost Secret,126,PG,4.72,6.62,false,false,false
+291,Legacy of the Savage Whisper,125,G,3.33,8.31,false,true,false
+292,The Infinite Legacy,144,R,5.82,7.27,false,false,false
+293,Beyond the Dark Riddle,146,PG,6.66,10.91,false,true,false
+294,The Wild Memory,130,PG,4.20,5.53,false,false,false
+295,Beyond the Furious Mirage,158,R,5.66,6.72,false,false,false
+296,Echo of the Infinite Frontier,133,14A,3.05,4.41,false,true,false
+297,Silent Whisper,144,18A,4.85,6.86,false,false,false
+298,Hidden Awakening,82,14A,6.65,8.26,false,false,false
+299,The Brave Storm,172,18A,4.03,6.32,false,false,false
+300,Mirage of the Wild Frontier,137,PG,4.43,7.67,false,true,false
+301,Reckoning of the First Promise,128,PG,3.35,6.40,true,true,false
+302,Beyond the Brave Awakening,156,PG,6.72,9.10,false,false,false
+303,The Radiant Secret,154,PG,3.65,7.65,true,false,false
+304,Beyond the Savage Legacy,165,18A,5.46,9.81,false,false,false
+305,The Furious Awakening,162,14A,3.85,5.40,false,false,false
+306,Chronicles of the Stormy Storm,128,18A,4.92,7.14,true,false,false
+307,Riddle of the Shattered Kingdom,179,PG,5.42,8.90,false,true,false
+308,Promise of the Furious Secret,130,A,5.29,8.64,false,false,false
+309,Lonely Reckoning,106,G,4.27,7.24,false,false,false
+310,Last Horizon,148,G,6.84,7.87,false,false,false
+311,Shadow of the Last Secret,169,PG,3.64,6.14,false,false,false
+312,Labyrinth of the Silent Memory,156,14A,3.13,4.92,false,false,false
+313,Beyond the Hidden Voyage,146,R,4.29,7.69,false,false,false
+314,Dark Mirage,109,PG,6.77,9.50,false,false,false
+315,Chronicles of the Lonely Frontier,143,A,6.71,11.42,false,false,false
+316,Stormy Promise,154,14A,3.93,6.56,false,false,false
+317,Infinite Horizon,155,PG,3.74,4.78,false,false,false
+318,Beyond the Golden Kingdom,160,R,4.59,6.71,true,false,false
+319,The Radiant Legacy,127,A,6.78,10.45,false,false,false
+320,Beyond the Broken Echo,152,R,4.21,6.97,false,false,true
+321,The Brave Echo,156,R,3.34,7.30,true,false,false
+322,Pulse of the Furious Shadow,107,PG,5.05,9.26,false,true,true
+323,The Savage Empire,164,G,5.09,9.28,false,true,false
+324,Return of the Labyrinth,147,R,6.42,11.10,false,false,false
+325,Chronicles of the Silent Storm,118,G,6.79,9.56,false,false,false
+326,Beyond the Last Odyssey,159,G,6.43,9.00,false,false,true
+327,Chronicles of the Shattered Kingdom,172,G,4.53,9.43,false,false,false
+328,Fading Reckoning,81,G,4.51,9.32,false,false,false
+329,The Stormy Kingdom,125,18A,4.48,6.73,false,false,false
+330,Chronicles of the Dark Awakening,150,A,4.20,5.72,false,true,false
+331,Chronicles of the Infinite Empire,153,18A,6.30,10.05,false,false,false
+332,The Ghostly Riddle,84,18A,4.72,7.11,false,false,false
+333,The Ghostly Empire,84,18A,5.86,9.97,false,false,false
+334,Chronicles of the Fading Awakening,95,18A,5.79,6.95,true,false,false
+335,Beyond the First Secret,81,A,4.64,8.00,false,false,false
+336,The Lost Promise,171,14A,4.37,8.11,false,false,false
+337,First Riddle,161,A,6.09,9.61,false,false,false
+338,Promise of the Silent Labyrinth,120,14A,5.67,7.09,false,false,false
+339,Reckoning of the Hidden Promise,95,18A,4.33,8.64,false,false,true
+340,Beyond the Broken Memory,154,A,4.86,7.27,true,false,false
+341,Into the Frontier,160,A,6.60,7.71,false,false,false
+342,Beyond the Furious Voyage,83,R,5.59,10.15,false,false,false
+343,The Shattered Whisper,173,R,5.10,6.82,false,false,false
+344,Reckoning of the Radiant Promise,166,18A,4.91,8.68,false,false,false
+345,Frontier of the Brave Storm,92,G,6.12,7.74,false,false,false
+346,Beyond the Lost Echo,104,18A,6.38,7.51,false,false,false
+347,The Radiant Memory,143,A,4.46,6.97,false,false,false
+348,The Wild Secret,146,18A,6.21,9.22,false,true,true
+349,Memory of the Fading Frontier,85,A,5.87,10.34,false,false,false
+350,Labyrinth of the Furious Secret,156,18A,3.88,6.65,false,false,false
+351,Chronicles of the Savage Voyage,93,PG,6.07,10.76,false,false,false
+352,Shattered Mirage,122,G,6.32,9.70,false,false,false
+353,Chronicles of the Brave Promise,97,14A,5.21,8.53,false,true,false
+354,The Wild Odyssey,147,G,4.50,5.97,false,false,false
+355,Beyond the Fading Promise,94,14A,6.14,8.67,false,false,false
+356,Infinite Pulse,112,18A,5.42,6.49,false,false,false
+357,Horizon of the Savage Riddle,128,A,3.23,6.38,false,false,false
+358,Legacy of the Furious Memory,177,A,4.38,8.60,false,true,false
+359,Chronicles of the First Memory,165,14A,6.41,7.76,false,false,false
+360,Awakening of the Wild Echo,137,14A,4.61,6.35,true,false,false
+361,Beyond the Dark Echo,137,14A,4.25,8.51,false,false,false
+362,Beyond the Broken Legacy,122,PG,6.23,9.23,true,false,false
+363,The Broken Secret,180,G,4.52,7.37,false,false,false
+364,Beyond the Last Voyage,119,R,4.05,7.60,false,false,false
+365,Odyssey of the Crimson Storm,144,A,6.07,7.60,false,false,false
+366,Chronicles of the Silent Empire,87,A,3.47,5.91,false,true,false
+367,Furious Pulse,174,R,6.50,10.15,false,false,false
+368,Beyond the Silent Legacy,88,14A,6.29,8.39,false,false,false
+369,Stormy Legacy,92,PG,5.91,9.27,false,false,false
+370,Whisper of the Ghostly Horizon,89,A,4.36,7.55,false,false,false
+371,Chronicles of the Last Pulse,117,G,3.26,8.10,false,false,false
+372,Awakening of the Lost Whisper,162,G,4.48,8.64,false,false,false
+373,The Dark Whisper,104,G,3.23,7.01,false,false,false
+374,Beyond the Stormy Awakening,113,14A,5.45,8.85,false,false,false
+375,Broken Storm,134,PG,5.61,6.71,false,true,false
+376,Reckoning of the Last Promise,137,14A,3.59,6.05,false,false,true
+377,Lost Promise,91,R,4.35,5.97,false,false,false
+378,Chronicles of the Furious Labyrinth,132,18A,3.91,6.20,true,false,false
+379,The Crimson Voyage,110,R,4.30,6.42,false,true,false
+380,Chronicles of the Last Odyssey,128,G,6.69,10.77,true,true,false
+381,The Lost Storm,104,G,3.41,7.18,false,false,false
+382,Chronicles of the Ghostly Reckoning,142,18A,3.01,7.43,false,true,false
+383,The Brave Mirage,104,18A,4.46,7.61,false,false,false
+384,Savage Storm,157,18A,4.81,7.90,false,false,false
+385,Chronicles of the Lonely Horizon,150,G,5.06,6.21,false,false,false
+386,The Shattered Echo,116,14A,6.29,9.56,false,true,false
+387,Beyond the Ghostly Voyage,94,R,6.13,7.51,false,true,false
+388,Wild Frontier,166,A,6.18,10.91,false,false,false
+389,Chronicles of the Silent Reckoning,116,A,5.05,6.62,false,false,true
+390,Promise of the Wild Awakening,133,G,3.94,6.61,false,false,false
+391,Crimson Secret,118,18A,3.42,5.96,false,false,true
+392,The Fading Memory,83,PG,3.32,7.69,true,false,false
+393,The Broken Shadow,91,G,5.69,7.69,false,false,false
+394,Labyrinth of the Lonely Voyage,95,18A,3.09,6.21,false,false,false
+395,Storm of the Last Secret,161,G,5.25,8.84,false,true,false
+396,Furious Kingdom,117,G,5.02,9.23,false,false,false
+397,Storm of the Dark Riddle,89,R,6.95,11.14,true,false,true
+398,Shadow of the Hidden Memory,122,18A,4.61,9.34,false,false,false
+399,Hidden Labyrinth,111,PG,4.56,9.43,false,false,false
+400,Chronicles of the Furious Reckoning,171,18A,5.50,7.12,false,false,false
+401,Hidden Promise,148,G,3.04,7.30,false,true,false
+402,Chronicles of the Hidden Memory,157,A,6.00,10.13,false,true,false
+403,Silent Kingdom,158,18A,6.67,8.63,false,false,false
+404,The Furious Legacy,144,G,3.75,5.16,false,false,false
+405,The Radiant Mirage,173,R,5.68,8.98,false,false,false
+406,Into the Memory,160,R,5.69,8.70,false,true,false
+407,The Infinite Promise,97,18A,4.62,8.78,false,true,true
+408,Awakening of the Hidden Voyage,127,14A,6.18,8.86,false,false,true
+409,Beyond the Hidden Awakening,106,14A,6.94,9.43,false,false,false
+410,Rise of the Shadow,137,G,4.71,9.16,false,true,false
+411,Frontier of the Crimson Horizon,155,G,6.04,8.47,true,false,false
+412,Rise of the Whisper,130,18A,6.97,10.29,false,true,false
+413,Beyond the Last Storm,116,14A,5.53,7.45,false,false,false
+414,Frontier of the Lost Mirage,87,14A,4.92,8.06,false,false,true
+415,Awakening of the Ghostly Labyrinth,128,A,3.49,5.99,false,true,false
+416,The Infinite Odyssey,118,14A,4.92,9.26,false,true,false
+417,The Dark Secret,100,PG,5.07,7.25,false,false,true
+418,Lonely Frontier,86,PG,5.58,9.89,false,false,false
+419,Chronicles of the Broken Reckoning,98,PG,3.37,7.46,true,false,false
+420,Into the Whisper,139,PG,5.22,6.38,true,false,false
+421,First Memory,155,R,5.17,7.34,true,false,false
+422,Chronicles of the First Whisper,117,A,2.99,6.98,false,false,false
+423,Legacy of the Furious Whisper,106,PG,5.85,10.55,false,false,false
+424,Furious Riddle,151,14A,4.01,5.24,false,false,false
+425,The Shattered Empire,116,R,6.03,10.90,false,false,true
+426,Radiant Mirage,146,14A,3.15,8.08,true,false,false
+427,Beyond the Stormy Storm,116,14A,4.23,6.69,false,false,false
+428,Into the Voyage,143,18A,5.84,7.81,false,false,false
+429,Shadow of the Last Riddle,110,14A,6.20,7.71,false,false,false
+430,Chronicles of the Brave Empire,111,18A,5.24,6.31,false,false,false
+431,Storm of the Lost Odyssey,154,G,6.31,10.90,false,false,false
+432,Chronicles of the Shattered Mirage,114,R,6.75,10.11,false,false,false
+433,Infinite Awakening,93,14A,4.02,8.56,false,false,false
+434,The Wild Frontier,143,PG,5.14,8.49,false,false,false
+435,Rise of the Labyrinth,120,PG,6.40,9.39,false,false,false
+436,The Dark Shadow,83,G,3.78,8.62,false,true,false
+437,Voyage of the Savage Echo,93,18A,5.09,8.37,true,true,false
+438,Beyond the Furious Promise,161,R,5.47,9.87,false,false,false
+439,Savage Memory,86,A,3.18,6.44,false,false,false
+440,Mirage of the Brave Empire,158,PG,5.48,8.49,true,false,false
+441,Savage Promise,123,G,3.16,6.49,false,false,false
+442,First Labyrinth,123,14A,5.14,8.07,false,false,false
+443,Shadow of the Ghostly Secret,172,R,6.72,9.85,true,false,false
+444,Beyond the Crimson Reckoning,80,18A,4.95,9.80,true,true,false
+445,Shadow of the Last Storm,112,18A,3.21,5.26,false,false,false
+446,Furious Empire,97,18A,6.50,9.15,false,false,false
+447,The Dark Horizon,122,R,4.78,8.28,false,false,true
+448,Beyond the Last Kingdom,170,G,5.41,7.67,false,true,false
+449,Beyond the Radiant Whisper,120,14A,3.50,7.83,false,false,false
+450,Last Labyrinth,85,R,5.75,10.04,false,false,false
+451,Chronicles of the Hidden Pulse,168,18A,4.74,7.40,false,false,false
+452,Shadow of the Lost Echo,106,A,4.27,7.99,false,false,false
+453,Chronicles of the Crimson Mirage,169,R,6.40,7.61,false,false,false
+454,Chronicles of the First Reckoning,115,PG,3.29,7.26,false,false,false
+455,Awakening of the Shattered Voyage,109,PG,4.32,8.78,false,false,false
+456,The Brave Shadow,128,18A,3.37,7.92,false,false,false
+457,Memory of the Lonely Reckoning,131,18A,4.01,7.83,false,false,true
+458,Beyond the Wild Odyssey,130,G,3.02,7.32,false,false,false
+459,Chronicles of the Broken Storm,121,PG,6.23,7.65,false,false,false
+460,Beyond the Fading Whisper,173,G,3.68,5.10,false,false,false
+461,Chronicles of the Shattered Odyssey,163,14A,5.01,9.48,true,false,true
+462,Whisper of the Shattered Kingdom,116,14A,3.81,8.57,false,false,false
+463,Shadow of the Ghostly Mirage,143,A,4.88,9.82,false,false,true
+464,Beyond the Broken Reckoning,91,A,3.53,6.91,false,false,true
+465,Chronicles of the Dark Odyssey,154,R,6.12,9.09,false,false,false
+466,Chronicles of the Fading Labyrinth,98,PG,3.32,6.71,false,false,false
+467,Whisper of the Brave Frontier,138,R,4.02,5.34,false,false,false
+468,Riddle of the Furious Awakening,140,14A,3.81,6.23,false,false,false
+469,Chronicles of the Shattered Frontier,82,R,4.83,7.59,false,false,true
+470,Chronicles of the First Secret,166,18A,5.13,10.09,false,false,false
+471,Broken Frontier,105,G,3.59,6.62,false,false,false
+472,Legacy of the Radiant Odyssey,122,A,4.21,7.43,false,false,false
+473,Chronicles of the Lost Awakening,109,A,3.30,5.24,false,false,false
+474,Beyond the Lonely Reckoning,105,R,6.66,10.77,false,true,false
+475,Last Promise,125,18A,5.57,8.83,true,false,true
+476,The Last Frontier,123,18A,3.70,6.79,false,true,false
+477,Whisper of the Lonely Storm,136,PG,3.62,4.98,false,false,false
+478,Chronicles of the Furious Whisper,176,G,6.22,9.25,false,false,false
+479,Silent Legacy,107,18A,6.42,10.48,true,false,false
+480,Return of the Kingdom,126,R,6.44,10.47,false,true,false
+481,Chronicles of the Wild Kingdom,94,PG,6.26,9.84,false,false,false
+482,Chronicles of the Savage Horizon,116,PG,3.19,7.94,false,false,false
+483,Infinite Secret,83,G,6.61,9.90,false,false,false
+484,The Dark Empire,132,A,3.37,4.90,false,true,false
+485,Golden Odyssey,159,PG,5.48,9.29,false,false,false
+486,Beyond the Furious Reckoning,146,A,4.57,8.78,false,false,false
+487,The Lonely Empire,175,14A,5.25,6.68,false,false,false
+488,Frontier of the Shattered Legacy,169,R,6.28,7.75,false,false,false
+489,Echo of the Silent Mirage,157,R,4.16,7.86,false,false,false
+490,Legacy of the Fading Voyage,167,R,6.36,8.17,true,false,false
+491,Horizon of the Infinite Memory,155,PG,3.04,7.92,false,false,false
+492,Awakening of the First Odyssey,119,14A,6.38,8.51,false,false,false
+493,Mirage of the Infinite Horizon,99,18A,3.00,5.38,true,false,false
+494,The Broken Odyssey,178,R,5.29,7.88,false,false,true
+495,Memory of the Crimson Kingdom,168,G,4.58,6.14,false,false,false
+496,Empire of the Wild Horizon,108,A,5.30,6.92,false,false,true
+497,Lonely Kingdom,165,18A,6.79,11.15,false,false,true
+498,Beyond the Brave Reckoning,92,18A,6.82,9.26,false,false,false
+499,Whisper of the Broken Echo,168,R,3.03,5.23,false,false,false
+500,The First Reckoning,100,18A,5.35,8.02,false,false,false
+501,Odyssey of the Hidden Empire,141,A,5.77,9.67,false,true,true
+502,Whisper of the Last Promise,164,G,3.30,7.14,false,false,false
+503,Chronicles of the Stormy Voyage,107,A,4.82,6.19,false,false,false
+504,Storm of the Lost Memory,158,G,3.26,5.52,false,false,false
+505,Hidden Horizon,103,R,3.08,4.91,false,false,false
+506,Crimson Odyssey,83,A,5.67,10.17,false,false,false
+507,Legacy of the Dark Odyssey,178,14A,5.48,6.62,false,false,false
+508,Whisper of the Hidden Kingdom,104,PG,3.90,5.79,false,false,false
+509,Riddle of the Brave Reckoning,158,R,6.84,8.78,false,false,false
+510,The Hidden Horizon,100,A,3.73,7.60,false,true,true
+511,The Broken Voyage,151,G,6.58,10.77,false,true,false
+512,Promise of the Silent Legacy,158,14A,3.81,5.44,false,false,false
+513,Chronicles of the Hidden Frontier,98,G,6.74,8.65,false,false,false
+514,Brave Odyssey,171,G,4.42,7.74,false,false,false
+515,Chronicles of the Lonely Labyrinth,98,18A,6.70,9.70,false,false,false
+516,Chronicles of the Silent Frontier,146,14A,6.03,9.99,false,false,false
+517,Chronicles of the Furious Awakening,136,18A,5.46,7.22,false,false,false
+518,Beyond the Savage Promise,117,G,6.22,11.18,false,false,false
+519,Frontier of the Dark Mirage,94,G,4.31,5.42,false,false,false
+520,Chronicles of the Furious Empire,160,A,6.93,9.97,true,false,false
+521,Rise of the Voyage,95,PG,3.21,5.11,false,true,false
+522,Hidden Reckoning,125,18A,6.66,8.51,true,false,false
+523,Chronicles of the Fading Odyssey,143,18A,5.64,10.06,false,false,false
+524,Golden Riddle,87,18A,3.47,4.97,false,true,false
+525,The Silent Labyrinth,156,18A,4.80,8.03,false,false,true
+526,Chronicles of the Furious Storm,98,18A,5.29,6.52,false,false,false
+527,Golden Echo,113,R,5.58,7.23,true,false,false
+528,Beyond the Lost Riddle,174,14A,5.62,8.85,false,false,false
+529,Voyage of the Lost Odyssey,121,G,4.02,7.77,false,false,false
+530,Storm of the Radiant Legacy,90,PG,3.46,7.38,false,false,false
+531,The Golden Riddle,83,18A,4.91,6.24,false,true,false
+532,Into the Awakening,116,PG,5.22,9.77,false,false,false
+533,Chronicles of the Hidden Legacy,142,G,3.92,6.96,false,true,false
+534,Legacy of the Silent Memory,129,PG,3.44,7.79,false,false,false
+535,Beyond the Broken Storm,92,18A,5.61,7.32,false,false,false
+536,Chronicles of the Savage Riddle,145,PG,5.13,7.92,true,false,false
+537,Wild Shadow,120,14A,5.74,8.27,true,true,false
+538,Return of the Frontier,162,14A,4.05,6.31,false,true,false
+539,Silent Labyrinth,169,18A,5.93,8.43,false,false,false
+540,Promise of the Last Empire,113,G,3.63,7.37,false,true,false
+541,The Golden Reckoning,100,PG,6.92,11.53,false,false,false
+542,Promise of the Golden Horizon,86,18A,4.28,8.54,false,false,true
+543,Beyond the Silent Frontier,177,PG,3.25,4.96,true,false,false
+544,Radiant Odyssey,129,18A,4.53,6.15,false,false,false
+545,The Fading Whisper,157,PG,3.16,5.13,true,false,false
+546,Furious Labyrinth,102,A,4.27,8.43,true,true,true
+547,Beyond the Silent Odyssey,153,A,4.30,7.89,false,false,false
+548,The Dark Storm,112,G,5.29,7.56,true,false,true
+549,Beyond the Radiant Mirage,150,G,4.87,9.70,false,false,false
+550,Beyond the Wild Empire,135,18A,6.96,8.97,false,false,false
+551,Chronicles of the First Horizon,157,G,4.31,6.25,true,true,false
+552,Memory of the Ghostly Odyssey,100,18A,4.59,6.50,false,false,false
+553,Furious Promise,152,14A,5.80,6.98,true,false,false
+554,Return of the Voyage,145,A,4.00,8.93,false,false,false
+555,Beyond the Wild Frontier,95,G,5.49,9.11,true,true,false
+556,Empire of the Hidden Kingdom,101,PG,5.56,10.51,false,false,false
+557,Beyond the Lonely Storm,110,14A,5.75,9.08,false,true,false
+558,The First Horizon,172,18A,6.33,10.53,false,false,false
+559,Chronicles of the Crimson Labyrinth,103,G,3.19,4.82,false,false,false
+560,Awakening of the Radiant Mirage,109,R,3.25,5.97,false,true,false
+561,Chronicles of the Hidden Riddle,106,14A,5.59,10.33,true,false,false
+562,Chronicles of the Infinite Kingdom,86,R,6.22,9.96,false,false,true
+563,Crimson Storm,134,14A,3.26,4.62,true,false,false
+564,The Shattered Pulse,165,R,6.86,11.83,false,false,false
+565,Chronicles of the Dark Frontier,170,A,6.17,11.06,true,false,false
+566,The Golden Promise,113,G,5.16,6.81,false,false,false
+567,Silent Reckoning,157,PG,5.88,9.01,false,true,false
+568,Into the Kingdom,155,PG,3.29,5.86,false,true,false
+569,Chronicles of the Broken Frontier,112,14A,5.80,8.48,false,false,false
+570,Chronicles of the Crimson Riddle,139,18A,4.54,8.79,false,true,false
+571,The Wild Pulse,140,14A,3.03,5.14,false,true,false
+572,The Broken Empire,90,PG,3.28,5.84,true,false,false
+573,Beyond the Infinite Promise,180,18A,4.78,6.26,false,false,false
+574,Beyond the Stormy Memory,95,PG,5.40,8.29,false,false,false
+575,Frontier of the Shattered Horizon,168,R,5.21,9.88,false,false,false
+576,Rise of the Horizon,144,G,5.55,8.47,false,true,false
+577,Memory of the Crimson Storm,94,A,6.82,9.16,true,false,false
+578,Kingdom of the Shattered Shadow,89,14A,5.21,7.72,false,false,false
+579,The Radiant Riddle,109,PG,5.64,7.69,false,false,false
+580,Chronicles of the Shattered Awakening,137,14A,4.40,7.70,false,false,false
+581,Furious Echo,94,R,3.21,6.28,false,false,false
+582,The Golden Voyage,133,G,3.13,5.31,false,false,false
+583,The Wild Reckoning,89,G,5.92,9.11,false,true,false
+584,Beyond the Brave Kingdom,93,R,6.98,8.10,false,false,false
+585,The Wild Promise,111,14A,6.07,10.52,false,false,false
+586,Pulse of the Infinite Horizon,161,G,5.82,7.70,false,true,false
+587,Golden Voyage,91,G,5.20,7.18,false,true,false
+588,Chronicles of the Silent Kingdom,174,14A,5.32,8.04,false,false,false
+589,The First Voyage,99,G,4.40,6.73,false,true,false
+590,The Last Labyrinth,110,PG,4.01,5.79,false,false,false
+591,Lonely Voyage,158,14A,6.63,7.85,false,false,false
+592,Chronicles of the Wild Pulse,114,18A,3.27,5.76,false,false,true
+593,The Brave Horizon,93,R,3.58,8.33,false,false,false
+594,Chronicles of the Ghostly Storm,109,R,5.42,9.84,false,true,false
+595,Secret of the Stormy Empire,102,PG,4.25,6.83,false,true,false
+596,Golden Storm,134,14A,3.32,5.14,true,false,false
+597,The Lonely Horizon,129,14A,4.29,8.25,false,false,false
+598,Shattered Reckoning,90,A,5.52,8.84,false,false,false
+599,Odyssey of the Furious Shadow,87,PG,5.99,9.09,false,false,true
+600,Dark Storm,95,G,4.31,6.89,false,false,false
+601,The Wild Whisper,172,14A,4.36,7.88,false,true,false
+602,Mirage of the Fading Labyrinth,163,14A,5.34,7.63,false,false,false
+603,Horizon of the Stormy Labyrinth,152,14A,3.95,8.31,false,true,false
+604,The Brave Awakening,112,A,6.42,11.11,false,false,false
+605,The Ghostly Whisper,95,A,5.22,6.48,false,false,false
+606,Furious Memory,168,A,4.40,6.81,false,true,false
+607,The Lonely Awakening,141,R,3.11,6.36,false,false,false
+608,Brave Horizon,99,A,4.59,8.22,false,false,false
+609,Rise of the Odyssey,99,G,6.55,10.54,true,false,false
+610,Beyond the Wild Pulse,80,18A,4.96,8.33,true,false,false
+611,Beyond the Lonely Frontier,107,18A,5.47,7.65,false,true,false
+612,Wild Empire,93,PG,6.72,10.54,false,false,false
+613,The First Storm,100,G,3.52,4.64,false,false,false
+614,Beyond the Brave Labyrinth,84,14A,4.74,7.76,false,false,false
+615,Storm of the Hidden Labyrinth,160,18A,3.80,7.46,false,false,true
+616,Brave Promise,118,14A,4.71,7.39,false,false,false
+617,Beyond the Radiant Horizon,146,PG,3.65,5.12,false,false,false
+618,Legacy of the Radiant Empire,120,R,6.90,9.10,false,false,false
+619,Chronicles of the Last Promise,165,R,5.51,7.00,false,false,false
+620,Storm of the Golden Shadow,154,PG,3.84,6.60,false,false,false
+621,Chronicles of the Furious Echo,137,PG,4.68,8.28,false,false,false
+622,Fading Frontier,136,14A,6.68,7.72,false,false,false
+623,Chronicles of the Shattered Legacy,93,PG,5.32,7.04,false,false,false
+624,Beyond the Golden Mirage,170,A,5.69,8.93,false,false,false
+625,Into the Secret,114,PG,3.53,5.01,true,false,false
+626,Return of the Odyssey,141,14A,3.50,6.50,false,true,false
+627,Memory of the Fading Shadow,140,G,5.75,7.14,false,false,false
+628,Broken Empire,113,A,5.87,9.15,true,false,false
+629,The Savage Odyssey,92,A,6.72,9.43,false,false,false
+630,Chronicles of the Furious Legacy,133,14A,5.83,7.16,true,false,false
+631,Brave Storm,138,G,4.48,6.90,false,false,false
+632,Beyond the Last Legacy,158,18A,6.56,8.18,true,false,false
+633,Kingdom of the Crimson Whisper,116,PG,4.58,7.49,false,true,false
+634,Secret of the First Odyssey,168,A,3.05,6.06,false,true,false
+635,Chronicles of the Last Legacy,171,R,5.54,6.60,false,true,false
+636,Empire of the Shattered Voyage,87,R,3.90,5.17,false,true,false
+637,Reckoning of the First Shadow,96,G,3.99,8.12,false,true,false
+638,Kingdom of the Broken Empire,168,G,4.40,6.69,false,false,false
+639,Beyond the Silent Secret,146,PG,6.43,8.73,false,false,false
+640,The Infinite Shadow,165,G,3.16,4.33,false,false,false
+641,Labyrinth of the Wild Horizon,154,A,3.81,7.59,false,false,false
+642,Return of the Awakening,169,G,6.86,8.97,false,false,false
+643,Beyond the Savage Shadow,180,A,3.39,6.66,true,false,false
+644,Rise of the Reckoning,135,PG,4.18,5.37,false,false,false
+645,Beyond the Brave Memory,167,G,3.56,7.77,true,false,false
+646,Lost Storm,143,18A,5.86,7.68,false,true,false
+647,Mirage of the Hidden Pulse,167,14A,6.33,8.46,false,false,false
+648,Fading Pulse,179,PG,3.19,5.55,false,false,false
+649,Infinite Promise,91,A,6.52,7.83,false,true,false
+650,Shattered Whisper,93,PG,5.54,9.03,false,false,true
+651,The Ghostly Echo,149,PG,5.07,9.23,false,false,true
+652,Shadow of the Brave Reckoning,164,14A,4.16,5.79,true,false,false
+653,Mirage of the Brave Legacy,87,R,3.46,6.93,false,false,false
+654,Odyssey of the Savage Mirage,83,18A,4.22,7.15,false,false,false
+655,Beyond the Ghostly Empire,170,R,3.52,5.50,false,false,false
+656,Crimson Empire,166,A,5.08,6.96,true,true,false
+657,Riddle of the Brave Horizon,91,14A,4.83,5.87,false,false,true
+658,Shadow of the Dark Promise,87,G,3.14,4.29,false,false,false
+659,Chronicles of the Golden Empire,151,18A,5.21,9.85,false,false,true
+660,The Broken Storm,162,R,6.19,8.84,false,false,true
+661,Beyond the Golden Empire,93,A,6.74,10.38,false,true,false
+662,Chronicles of the Ghostly Labyrinth,85,14A,4.24,8.82,false,false,false
+663,Beyond the Dark Whisper,163,A,4.64,8.04,false,false,false
+664,Kingdom of the Stormy Legacy,158,R,6.32,11.30,false,false,false
+665,Beyond the Crimson Promise,158,PG,3.88,6.63,false,false,false
+666,Chronicles of the Silent Memory,95,18A,3.49,7.41,false,false,false
+667,The Stormy Echo,160,G,3.01,7.14,false,false,false
+668,Chronicles of the Ghostly Kingdom,160,A,6.32,9.90,false,false,false
+669,Shattered Storm,115,PG,3.58,6.08,false,false,false
+670,Beyond the Shattered Storm,149,14A,3.20,5.26,true,false,false
+671,Chronicles of the Lost Voyage,121,A,5.89,7.19,false,false,false
+672,Golden Whisper,110,18A,6.80,10.91,false,false,true
+673,Chronicles of the Wild Legacy,128,PG,6.18,10.41,false,false,false
+674,The Shattered Storm,89,PG,4.18,8.07,false,false,false
+675,Promise of the Furious Mirage,158,14A,3.11,7.34,false,false,false
+676,Beyond the Lonely Pulse,99,G,4.95,9.18,false,false,false
+677,Memory of the Shattered Empire,122,18A,5.43,7.88,false,true,false
+678,Odyssey of the Crimson Kingdom,180,A,4.74,8.80,false,false,false
+679,Mirage of the Last Kingdom,122,PG,3.96,5.25,false,false,false
+680,Beyond the Crimson Whisper,114,G,4.80,8.39,false,false,false
+681,Chronicles of the Lonely Whisper,106,PG,4.70,6.58,false,false,false
+682,The Radiant Kingdom,101,18A,6.83,10.02,false,true,false
+683,Chronicles of the Golden Echo,115,14A,5.44,9.45,false,true,false
+684,Shadow of the Dark Storm,159,PG,3.77,8.64,false,false,false
+685,The Infinite Empire,97,A,5.37,8.52,false,false,false
+686,Odyssey of the Last Echo,148,R,5.20,6.64,false,true,false
+687,Pulse of the Silent Legacy,116,R,3.74,8.42,false,false,false
+688,The Infinite Secret,101,14A,6.29,9.22,false,false,false
+689,Beyond the Silent Awakening,97,A,5.21,8.89,false,false,false
+690,Chronicles of the Golden Voyage,108,18A,3.57,7.78,false,false,false
+691,Beyond the Radiant Promise,80,G,3.27,5.41,false,false,false
+692,Shadow of the Lost Mirage,133,R,5.71,8.05,false,false,false
+693,Beyond the Lonely Legacy,170,A,5.98,10.03,false,false,false
+694,Awakening of the Wild Secret,107,R,6.64,9.11,false,false,false
+695,Empire of the Broken Memory,165,R,5.07,9.52,true,false,false
+696,Beyond the Broken Voyage,129,A,5.40,6.77,true,false,false
+697,Chronicles of the Silent Promise,174,14A,6.31,10.38,true,false,false
+698,Beyond the Lonely Echo,115,A,5.94,10.25,false,false,false
+699,Chronicles of the Crimson Echo,127,R,3.34,6.03,false,false,true
+700,Whisper of the Stormy Echo,134,PG,6.49,7.50,false,false,true
+701,Promise of the Broken Whisper,86,G,5.24,6.34,true,false,false
+702,Chronicles of the Savage Whisper,157,R,6.30,10.83,false,true,false
+703,Beyond the Shattered Empire,108,A,5.86,10.05,false,false,false
+704,Beyond the Brave Shadow,132,PG,6.57,9.51,false,false,false
+705,The Hidden Voyage,170,14A,5.28,8.97,false,false,false
+706,Hidden Legacy,95,18A,5.49,7.43,false,false,false
+707,Echo of the Wild Shadow,90,PG,5.80,8.12,false,false,false
+708,Stormy Reckoning,167,R,3.44,6.85,false,false,false
+709,Chronicles of the Infinite Whisper,97,PG,6.29,8.69,true,false,true
+710,The Lost Pulse,144,14A,4.92,9.19,false,false,false
+711,Shadow of the Fading Kingdom,147,14A,3.25,7.43,false,false,false
+712,Chronicles of the Lost Memory,165,18A,3.45,8.34,true,false,false
+713,Memory of the Fading Horizon,170,R,5.55,7.32,true,false,false
+714,The Crimson Riddle,121,R,6.79,8.34,false,true,false
+715,Chronicles of the Savage Shadow,167,14A,3.45,7.95,false,false,false
+716,Chronicles of the Lost Storm,168,R,3.74,5.54,true,false,false
+717,Chronicles of the Fading Reckoning,98,18A,5.65,9.56,false,true,true
+718,Promise of the Silent Reckoning,138,R,3.70,7.81,false,false,false
+719,Echo of the Silent Pulse,103,A,6.29,7.49,false,false,false
+720,Beyond the Dark Secret,109,14A,6.50,8.28,false,false,true
+721,Chronicles of the Hidden Shadow,170,PG,4.20,8.47,false,false,false
+722,Beyond the Radiant Memory,125,PG,5.28,7.38,false,false,false
+723,The Broken Horizon,178,14A,6.76,8.27,true,true,false
+724,Chronicles of the Golden Labyrinth,139,18A,5.28,10.03,true,false,false
+725,Promise of the Silent Whisper,124,PG,6.40,7.83,false,false,false
+726,Chronicles of the Shattered Labyrinth,98,G,3.43,7.64,false,false,false
+727,Horizon of the Infinite Pulse,136,18A,5.29,10.18,false,false,false
+728,The Shattered Shadow,126,A,3.69,6.26,false,true,false
+729,The Wild Legacy,133,18A,6.18,9.07,false,false,false
+730,Whisper of the Radiant Echo,82,PG,5.36,9.21,false,true,false
+731,Memory of the Wild Empire,107,14A,3.77,5.09,true,true,false
+732,Beyond the Fading Mirage,129,PG,6.23,10.11,false,false,false
+733,Lost Kingdom,177,A,3.70,5.32,false,false,true
+734,Stormy Kingdom,138,R,4.59,6.75,true,false,false
+735,Chronicles of the Broken Riddle,174,18A,4.93,7.55,false,true,false
+736,Shattered Riddle,90,18A,3.37,5.86,true,false,false
+737,Lonely Riddle,170,R,3.00,7.43,false,true,false
+738,Storm of the Silent Memory,96,14A,6.75,9.43,false,false,false
+739,Chronicles of the Lonely Mirage,100,18A,5.77,10.76,false,false,true
+740,Broken Labyrinth,135,G,4.73,8.80,false,false,false
+741,The Fading Echo,107,R,6.76,9.04,false,false,false
+742,The Dark Mirage,152,G,6.16,7.74,false,false,false
+743,Chronicles of the Golden Riddle,154,18A,3.10,7.56,true,true,false
+744,Promise of the Fading Kingdom,111,A,5.20,7.29,false,false,false
+745,Radiant Horizon,157,14A,6.35,8.89,false,true,false
+746,Awakening of the First Frontier,172,R,5.55,10.05,false,false,false
+747,Chronicles of the Brave Mirage,85,18A,6.99,10.90,false,false,false
+748,Lonely Legacy,133,R,4.71,8.85,false,false,false
+749,Beyond the Lost Promise,104,G,4.33,8.84,false,false,true
+750,The Stormy Odyssey,88,R,5.53,9.13,false,true,false
+751,Riddle of the Last Reckoning,134,A,5.51,8.07,false,false,false
+752,Labyrinth of the Lonely Shadow,122,14A,5.41,9.09,false,false,false
+753,Beyond the Infinite Shadow,117,18A,4.35,8.96,true,false,false
+754,Odyssey of the Crimson Mirage,126,18A,4.54,5.56,false,false,false
+755,Empire of the Broken Whisper,81,G,3.00,6.22,true,false,false
+756,Horizon of the Fading Riddle,157,18A,6.48,8.33,false,false,false
+757,Beyond the Dark Frontier,148,14A,6.85,11.61,false,false,false
+758,Pulse of the Crimson Promise,82,14A,5.53,7.81,false,false,false
+759,Legacy of the Lost Voyage,135,G,5.35,7.00,false,false,false
+760,The Stormy Secret,170,A,6.35,8.74,true,false,false
+761,Ghostly Shadow,171,PG,5.79,9.49,false,false,false
+762,Chronicles of the Crimson Kingdom,166,R,3.56,6.70,false,true,false
+763,Return of the Empire,144,18A,3.61,7.56,false,false,false
+764,Into the Odyssey,140,G,5.91,9.11,false,false,false
+765,Beyond the Hidden Shadow,160,R,6.16,8.50,false,true,false
+766,Chronicles of the Last Secret,99,R,3.74,5.07,false,false,false
+767,Hidden Kingdom,178,18A,4.41,7.98,false,false,false
+768,Return of the Whisper,101,14A,3.20,7.92,false,false,false
+769,The Brave Kingdom,163,18A,6.88,10.78,false,true,false
+770,The Crimson Secret,156,PG,6.61,9.28,false,false,false
+771,Golden Memory,89,PG,3.56,7.05,false,true,false
+772,Beyond the First Memory,101,G,4.36,8.30,true,false,false
+773,Beyond the Lonely Labyrinth,89,G,5.49,8.85,false,false,false
+774,Furious Legacy,104,G,5.92,8.01,false,false,false
+775,Beyond the Dark Empire,98,18A,4.64,8.09,false,false,false
+776,Into the Pulse,87,PG,5.74,10.40,false,false,true
+777,Chronicles of the Fading Empire,169,G,3.28,5.41,false,false,false
+778,The Furious Labyrinth,136,A,5.44,7.58,false,false,false
+779,Chronicles of the Savage Kingdom,131,A,6.45,10.06,false,false,false
+780,Beyond the Furious Shadow,106,14A,3.24,6.07,false,false,false
+781,Chronicles of the Furious Memory,143,G,6.77,9.98,false,true,true
+782,The Infinite Mirage,126,18A,4.59,6.30,false,false,true
+783,The Shattered Voyage,119,PG,4.62,7.97,false,false,false
+784,The Wild Kingdom,165,14A,3.12,6.05,false,false,false
+785,Silent Mirage,81,R,3.13,5.30,false,true,false
+786,Dark Promise,101,R,3.60,5.83,false,false,false
+787,First Voyage,81,14A,5.45,7.30,false,true,false
+788,Beyond the Stormy Shadow,158,PG,3.40,7.80,false,false,false
+789,Broken Promise,97,18A,5.40,6.65,false,false,false
+790,Beyond the Last Secret,143,R,6.16,8.38,false,false,false
+791,Beyond the Shattered Voyage,105,18A,5.22,8.07,false,true,false
+792,Chronicles of the Lost Reckoning,112,14A,3.44,4.45,false,false,false
+793,Dark Pulse,102,18A,6.65,10.99,true,false,false
+794,Chronicles of the Wild Awakening,102,14A,3.23,7.56,true,false,true
+795,Chronicles of the Golden Promise,166,R,3.55,6.07,false,false,false
+796,Furious Odyssey,178,R,5.22,9.02,false,true,false
+797,Beyond the Wild Reckoning,91,18A,4.32,7.86,false,false,true
+798,Chronicles of the Broken Legacy,135,PG,4.78,7.75,false,false,false
+799,Promise of the Infinite Frontier,179,A,6.87,9.67,false,false,false
+800,Brave Frontier,149,PG,4.78,7.25,false,false,false
+801,The Fading Mirage,173,G,3.37,5.90,false,false,false
+802,The Lonely Legacy,176,R,6.80,8.53,false,true,false
+803,The Stormy Shadow,146,PG,6.36,9.08,false,false,false
+804,First Frontier,87,14A,6.37,11.17,true,false,false
+805,Savage Whisper,168,R,5.06,8.16,false,false,false
+806,Beyond the Infinite Pulse,85,PG,5.47,7.08,false,false,false
+807,Rise of the Mirage,108,R,5.32,6.75,false,false,false
+808,Hidden Voyage,84,G,4.72,6.85,false,false,false
+809,The Shattered Odyssey,113,A,6.09,8.70,false,true,false
+810,The Furious Memory,113,R,6.10,11.03,false,true,false
+811,The Crimson Odyssey,133,18A,4.06,6.68,false,false,false
+812,Beyond the Dark Promise,104,R,4.33,8.49,false,false,false
+813,The First Secret,80,A,6.70,9.80,false,false,true
+814,Wild Riddle,113,14A,3.37,7.74,true,false,false
+815,The Brave Reckoning,103,A,4.02,6.39,true,true,false
+816,Memory of the Ghostly Storm,180,PG,6.15,7.80,false,false,false
+817,Chronicles of the Dark Mirage,95,A,3.89,6.00,true,true,true
+818,Crimson Mirage,158,R,3.74,7.76,false,false,false
+819,Beyond the Broken Shadow,149,18A,4.89,6.85,false,false,false
+820,Radiant Reckoning,94,PG,5.97,8.09,false,false,false
+821,Kingdom of the Last Promise,87,14A,3.77,7.85,false,false,false
+822,Furious Voyage,137,A,4.71,7.92,true,false,false
+823,Memory of the Wild Mirage,125,18A,3.12,5.17,false,true,false
+824,Beyond the Furious Pulse,99,A,3.05,6.50,false,true,false
+825,Shattered Memory,103,A,5.09,6.88,false,true,false
+826,Echo of the Radiant Frontier,107,18A,6.95,9.95,false,false,false
+827,Chronicles of the Ghostly Horizon,164,PG,3.94,6.76,false,true,false
+828,Rise of the Legacy,98,14A,6.66,10.35,true,false,false
+829,Beyond the Radiant Riddle,136,A,3.79,4.88,false,true,false
+830,Beyond the Last Echo,148,14A,3.11,7.66,false,false,false
+831,Lonely Mirage,106,PG,3.18,4.66,false,false,false
+832,Shattered Awakening,113,A,6.87,11.61,true,true,false
+833,Beyond the Broken Riddle,167,G,4.45,9.36,false,false,true
+834,Frontier of the Dark Promise,105,G,5.67,10.55,false,false,false
+835,Chronicles of the Lost Shadow,114,18A,4.93,7.42,true,false,false
+836,Beyond the Crimson Secret,83,R,5.24,7.42,false,false,false
+837,Chronicles of the Lost Horizon,149,14A,3.04,6.74,false,false,false
+838,Chronicles of the Radiant Legacy,106,14A,3.39,6.96,false,false,false
+839,The Hidden Secret,115,R,6.42,10.22,false,false,false
+840,Mirage of the Brave Odyssey,115,PG,6.67,10.98,true,false,false
+841,Fading Whisper,112,18A,3.42,6.78,true,false,false
+842,The Lonely Shadow,104,14A,5.04,8.21,true,false,false
+843,Beyond the Radiant Odyssey,154,PG,6.03,10.58,false,false,false
+844,The Wild Horizon,149,18A,4.72,9.06,false,false,false
+845,Chronicles of the Fading Promise,160,14A,4.01,7.70,false,false,false
+846,Chronicles of the First Legacy,146,R,6.69,8.23,true,false,false
+847,The Furious Frontier,146,A,4.31,8.48,false,false,false
+848,Ghostly Secret,139,R,3.66,7.86,false,false,false
+849,Chronicles of the Radiant Secret,172,PG,5.27,6.34,false,false,true
+850,The Brave Pulse,128,PG,6.80,10.31,false,false,true
+851,Beyond the Dark Memory,149,R,5.32,6.44,false,false,false
+852,The Furious Horizon,169,A,3.76,5.53,false,false,false
+853,Pulse of the Stormy Whisper,165,18A,6.39,10.30,true,false,false
+854,Into the Shadow,130,G,6.29,8.49,false,false,false
+855,The Fading Reckoning,156,A,4.58,8.09,false,false,false
+856,Chronicles of the Savage Legacy,111,PG,5.33,6.95,false,false,false
+857,Voyage of the Golden Riddle,140,PG,5.68,10.63,false,true,false
+858,The Dark Riddle,132,A,3.97,6.50,false,false,false
+859,Mirage of the Dark Empire,119,18A,3.19,6.74,true,false,true
+860,The Radiant Pulse,144,R,3.34,4.64,true,false,false
+861,Kingdom of the First Riddle,116,R,3.96,6.37,false,true,false
+862,Kingdom of the Ghostly Labyrinth,149,18A,4.46,6.84,false,false,false
+863,Chronicles of the Silent Voyage,161,14A,3.58,7.78,false,false,false
+864,Chronicles of the Lonely Storm,95,PG,4.42,7.60,false,false,false
+865,The Lost Memory,125,18A,3.16,7.73,false,false,true
+866,The Crimson Whisper,178,A,4.87,6.47,false,true,false
+867,Secret of the Golden Mirage,107,PG,5.89,8.56,false,false,false
+868,The Stormy Memory,170,14A,3.08,7.65,false,false,false
+869,Storm of the First Secret,177,A,4.23,5.42,false,false,false
+870,Hidden Frontier,175,R,5.25,10.20,true,false,false
+871,Return of the Mirage,144,18A,6.69,8.69,false,false,false
+872,Chronicles of the Stormy Riddle,88,18A,6.16,8.38,false,false,false
+873,Beyond the Furious Storm,178,PG,6.14,8.73,false,false,true
+874,The Brave Secret,105,A,6.20,9.48,false,false,false
+875,The First Frontier,177,PG,3.63,6.52,false,false,false
+876,Beyond the Furious Echo,137,14A,5.67,8.82,false,false,false
+877,Furious Secret,169,PG,5.68,9.53,false,false,true
+878,Chronicles of the Fading Riddle,109,A,3.96,8.70,false,false,false
+879,The Infinite Frontier,175,R,3.95,5.88,false,false,false
+880,The Brave Odyssey,124,18A,5.36,6.51,false,false,false
+881,Chronicles of the Crimson Frontier,155,G,5.05,6.92,false,false,true
+882,Chronicles of the Hidden Empire,126,14A,6.69,9.88,false,false,false
+883,Secret of the Hidden Memory,174,18A,3.11,7.78,false,false,false
+884,Awakening of the Fading Empire,109,PG,4.52,7.36,false,true,false
+885,Beyond the Savage Awakening,171,PG,6.77,9.20,false,false,false
+886,Odyssey of the Last Awakening,136,18A,5.68,6.99,false,false,false
+887,Beyond the Savage Whisper,127,18A,6.03,7.82,false,false,false
+888,Beyond the Infinite Whisper,134,14A,6.64,9.00,false,true,true
+889,Fading Awakening,95,18A,4.28,8.47,false,false,false
+890,Rise of the Pulse,160,14A,3.84,8.34,false,false,true
+891,Chronicles of the Radiant Echo,167,PG,6.90,11.45,false,false,false
+892,The First Shadow,103,A,5.98,8.86,false,false,false
+893,Beyond the Infinite Legacy,172,G,5.21,8.60,false,false,false
+894,Horizon of the Crimson Odyssey,91,18A,6.63,9.10,false,true,false
+895,Beyond the Wild Secret,165,14A,6.80,11.28,false,false,true
+896,Reckoning of the Fading Empire,155,G,3.96,7.33,false,false,true
+897,Chronicles of the Brave Shadow,130,PG,6.19,8.18,false,false,true
+898,Chronicles of the Lost Mirage,119,PG,3.25,7.11,false,false,false
+899,Beyond the Lost Memory,114,PG,4.40,8.70,false,false,false
+900,Chronicles of the Infinite Mirage,88,R,3.49,5.19,false,false,false
+901,Reckoning of the Lonely Riddle,113,14A,4.12,7.11,true,true,false
+902,Whisper of the Last Empire,122,G,5.67,9.64,false,false,false
+903,Storm of the Broken Pulse,98,R,4.30,5.46,false,false,false
+904,Chronicles of the Dark Kingdom,82,18A,5.58,8.07,false,true,false
+905,The Stormy Labyrinth,170,A,4.18,7.91,false,false,false
+906,Reckoning of the Fading Promise,130,R,6.62,8.73,false,true,true
+907,Radiant Whisper,106,PG,5.25,9.31,false,false,false
+908,Chronicles of the Infinite Legacy,128,14A,6.41,10.81,false,true,false
+909,The Radiant Promise,115,G,4.70,7.05,true,false,false
+910,Chronicles of the Golden Horizon,108,18A,3.38,8.09,false,false,false
+911,Beyond the Dark Storm,127,PG,3.67,6.45,false,false,false
+912,Beyond the Golden Promise,99,G,5.63,9.98,true,true,false
+913,Stormy Secret,180,PG,4.50,7.48,false,true,false
+914,Ghostly Riddle,110,A,6.47,9.29,false,false,false
+915,Legacy of the Brave Mirage,119,A,5.01,8.46,false,false,false
+916,The Lost Legacy,133,R,4.87,8.40,false,false,false
+917,Storm of the Shattered Reckoning,86,G,4.22,6.73,false,false,false
+918,Chronicles of the Broken Echo,120,14A,5.32,10.27,false,false,true
+919,Broken Kingdom,102,PG,6.70,11.39,false,false,false
+920,The Golden Storm,132,18A,3.82,6.78,false,false,false
+921,Echo of the Brave Frontier,122,14A,3.79,5.46,false,false,false
+922,Savage Secret,180,PG,4.98,9.27,true,false,false
+923,Chronicles of the Stormy Empire,138,14A,5.60,10.47,false,false,false
+924,Chronicles of the Stormy Legacy,171,14A,5.73,10.04,false,true,false
+925,Pulse of the Furious Mirage,139,R,4.05,7.27,false,false,false
+926,The Stormy Whisper,129,14A,6.39,10.37,false,false,false
+927,Chronicles of the Crimson Memory,146,R,4.10,8.14,false,false,false
+928,The Hidden Legacy,93,G,4.00,6.78,false,false,false
+929,Awakening of the Crimson Memory,97,R,4.88,7.43,false,true,false
+930,Chronicles of the Ghostly Voyage,163,14A,4.17,5.45,true,false,false
+931,The Golden Secret,142,18A,6.00,7.90,false,false,false
+932,Chronicles of the Last Horizon,154,PG,4.36,6.40,false,true,false
+933,Return of the Legacy,103,14A,5.65,7.82,false,false,false
+934,Dark Memory,177,18A,5.04,9.66,false,false,true
+935,Chronicles of the Ghostly Promise,175,R,6.15,10.89,false,true,false
+936,Empire of the Fading Storm,179,G,6.64,10.10,false,true,false
+937,Memory of the Ghostly Empire,84,18A,5.21,8.30,false,false,false
+938,Beyond the Infinite Storm,160,A,6.90,8.42,false,true,true
+939,The Savage Kingdom,83,G,6.81,9.00,false,false,false
+940,Savage Labyrinth,97,A,6.45,9.41,false,false,false
+941,Voyage of the Brave Labyrinth,161,R,5.45,7.67,true,false,false
+942,Crimson Pulse,112,R,6.42,10.19,false,false,false
+943,Beyond the Lonely Awakening,179,18A,3.65,8.43,false,false,false
+944,Silent Secret,149,PG,5.81,8.23,true,false,false
+945,Chronicles of the Savage Labyrinth,133,18A,4.42,7.58,true,false,false
+946,Chronicles of the Wild Echo,128,G,5.77,7.04,false,false,true
+947,Chronicles of the Brave Odyssey,80,14A,3.64,5.25,false,false,false
+948,Beyond the Shattered Riddle,137,18A,3.96,8.88,false,false,false
+949,Fading Empire,96,18A,5.99,9.33,true,false,false
+950,Beyond the Golden Storm,154,14A,3.15,4.44,false,false,false
+951,Broken Legacy,124,14A,3.19,6.57,false,false,false
+952,Ghostly Kingdom,118,R,5.44,9.26,false,false,true
+953,Brave Empire,144,R,6.70,9.30,false,false,false
+954,Beyond the Brave Legacy,84,G,3.35,7.79,false,false,false
+955,Beyond the Last Empire,109,G,5.50,8.46,false,false,false
+956,Chronicles of the Wild Mirage,85,18A,6.87,11.41,false,false,true
+957,Last Reckoning,141,PG,3.18,7.84,false,false,false
+958,Chronicles of the Lonely Reckoning,120,14A,3.84,5.29,false,false,false
+959,Beyond the Radiant Pulse,101,G,4.10,6.46,false,true,true
+960,Chronicles of the Last Empire,165,G,4.96,7.62,false,false,false
+961,Voyage of the Last Promise,83,G,6.42,10.00,false,false,false
+962,The Hidden Kingdom,89,R,5.76,8.90,true,true,false
+963,Beyond the Silent Voyage,180,14A,5.61,8.69,false,false,false
+964,Beyond the Radiant Frontier,86,14A,5.48,7.95,false,false,false
+965,Chronicles of the Last Riddle,82,PG,4.65,7.78,false,false,false
+966,Dark Voyage,156,G,4.61,6.40,false,false,false
+967,Riddle of the Golden Horizon,168,G,5.42,8.54,false,false,false
+968,Chronicles of the Brave Memory,152,PG,3.25,4.57,false,false,false
+969,Chronicles of the Radiant Voyage,132,18A,4.97,7.69,false,false,false
+970,Beyond the Infinite Reckoning,125,14A,5.75,7.89,false,true,false
+971,Secret of the Furious Legacy,104,18A,6.62,8.33,true,false,false
+972,Beyond the Golden Echo,114,PG,5.48,8.99,false,false,false
+973,Dark Reckoning,179,14A,4.82,7.78,false,false,false
+974,The Lost Voyage,163,14A,3.29,8.17,false,false,false
+975,Chronicles of the Golden Memory,123,A,4.92,6.49,false,false,false
+976,Radiant Shadow,169,G,6.94,10.79,false,false,false
+977,Kingdom of the Wild Whisper,152,14A,3.76,7.90,true,false,false
+978,The First Awakening,179,R,4.83,8.80,false,false,false
+979,The Lonely Pulse,146,PG,6.21,9.55,false,false,false
+980,First Horizon,90,18A,5.52,6.91,false,false,false
+981,Lost Secret,94,14A,6.04,7.41,false,false,false
+982,Beyond the Silent Kingdom,140,18A,5.42,9.17,false,false,false
+983,Beyond the Brave Empire,145,A,5.31,6.55,false,false,false
+984,Chronicles of the Wild Whisper,160,14A,5.34,7.50,false,false,false
+985,Chronicles of the Stormy Whisper,142,PG,4.54,8.87,false,false,false
+986,Memory of the Broken Awakening,80,14A,6.39,7.84,false,false,true
+987,The Silent Echo,88,14A,3.92,7.94,false,true,false
+988,Kingdom of the Dark Frontier,124,18A,5.26,7.33,false,false,false
+989,Broken Riddle,107,18A,5.25,9.93,true,false,false
+990,Storm of the Shattered Labyrinth,122,PG,3.57,7.72,false,false,false
+991,Beyond the Lost Odyssey,177,PG,3.07,5.40,false,false,false
+992,Beyond the Furious Legacy,174,PG,6.62,11.29,false,false,false
+993,The Savage Pulse,145,R,6.27,9.84,false,false,false
+994,Beyond the First Frontier,126,PG,3.53,7.99,false,false,false
+995,Beyond the Stormy Whisper,125,R,4.03,7.32,false,false,false
+996,Infinite Frontier,85,G,5.76,9.36,false,false,false
+997,First Pulse,129,18A,3.06,5.27,false,false,false
+998,The Furious Promise,148,R,5.97,10.87,false,false,false
+999,Beyond the Hidden Horizon,154,14A,4.66,8.22,false,false,false
+1000,Last Awakening,172,G,6.64,11.26,true,false,false
+1001,Chronicles of the Lonely Shadow,98,PG,5.92,9.08,false,false,false
+1002,Rise of the Riddle,89,A,5.39,9.11,false,true,false
+1003,Chronicles of the Golden Reckoning,176,PG,3.49,8.12,false,false,false
+1004,Chronicles of the Lonely Secret,177,14A,6.87,9.43,true,false,true
+1005,Silent Horizon,142,18A,6.79,7.99,true,false,false
+1006,Return of the Memory,171,A,5.43,6.52,false,false,false
+1007,The Savage Storm,145,14A,5.57,9.70,false,false,false
+1008,Voyage of the Hidden Pulse,82,PG,3.65,7.24,false,false,false
+1009,Chronicles of the Savage Frontier,164,A,5.44,9.17,false,false,true
+1010,Return of the Shadow,148,A,6.13,9.72,false,false,false
+1011,Beyond the Infinite Horizon,179,R,3.06,4.42,false,false,false
+1012,Beyond the Ghostly Pulse,92,18A,6.14,8.74,false,false,false
+1013,Horizon of the Infinite Secret,97,R,5.54,7.14,false,false,false
+1014,The Infinite Pulse,89,18A,5.96,8.72,false,false,false
+1015,Chronicles of the Lonely Memory,161,18A,4.85,9.58,false,false,false
+1016,First Shadow,83,R,5.30,10.28,false,false,false
+1017,Beyond the Furious Whisper,131,14A,3.03,5.26,false,false,false
+1018,Odyssey of the Last Memory,92,R,3.27,6.56,false,true,false
+1019,Dark Frontier,153,R,3.57,7.45,false,false,false
+1020,Promise of the First Whisper,129,A,5.37,9.29,false,false,false
+1021,The Infinite Labyrinth,150,18A,4.31,7.30,false,false,false
+1022,Awakening of the Fading Secret,179,18A,6.44,10.50,false,false,false
+1023,Mirage of the Savage Riddle,145,PG,5.84,9.58,true,true,false
+1024,Legacy of the Radiant Voyage,168,PG,4.30,9.22,true,true,false
+1025,Infinite Legacy,156,A,4.26,8.14,false,true,false
+1026,Chronicles of the Broken Empire,144,14A,6.04,7.79,false,true,false
+1027,First Whisper,87,A,6.41,9.18,true,false,false
+1028,Horizon of the Fading Frontier,145,R,5.99,7.80,false,false,false
+1029,Beyond the Hidden Secret,179,G,4.76,6.10,false,true,false
+1030,Labyrinth of the Golden Shadow,111,R,6.97,11.28,false,false,true
+1031,The Lost Odyssey,101,R,6.31,10.92,false,false,false
+1032,Beyond the Ghostly Awakening,169,14A,4.95,6.99,false,false,false
+1033,Chronicles of the Fading Memory,82,18A,6.72,11.27,false,false,false
+1034,The Fading Odyssey,111,PG,5.86,9.54,false,true,false
+1035,Chronicles of the Radiant Memory,152,A,3.54,7.83,false,false,false
+1036,Chronicles of the Shattered Shadow,116,14A,6.75,8.10,true,false,false
+1037,Chronicles of the First Promise,156,18A,5.84,9.32,false,false,false
+1038,First Echo,152,18A,3.02,6.18,false,false,false
+1039,The Broken Legacy,129,R,6.33,9.98,false,true,false
+1040,Into the Empire,104,14A,5.66,8.64,false,false,false
+1041,Beyond the Ghostly Frontier,104,G,5.76,8.78,false,true,false
+1042,Beyond the Ghostly Storm,98,A,3.64,6.87,false,false,false
+1043,Chronicles of the Stormy Horizon,108,A,4.11,6.35,false,false,false
+1044,Chronicles of the Lonely Awakening,98,G,6.54,10.03,true,false,false
+1045,Riddle of the Golden Odyssey,179,PG,4.08,6.32,false,true,false
+1046,Promise of the Savage Voyage,90,G,3.35,5.84,false,false,false
+1047,Furious Reckoning,128,R,6.34,8.66,false,true,false
+1048,Legacy of the Savage Labyrinth,123,G,4.11,7.47,false,true,false
+1049,Wild Storm,134,14A,5.49,9.80,false,false,false
+1050,Furious Mirage,94,18A,4.90,6.99,false,true,false
+1051,Crimson Frontier,132,R,6.56,9.86,false,false,false
+1052,Beyond the Crimson Kingdom,108,18A,5.28,9.47,false,true,false
+1053,Secret of the Hidden Odyssey,86,A,6.04,10.37,false,false,false
+1054,Chronicles of the Infinite Labyrinth,97,A,5.71,8.18,false,false,false
+1055,Beyond the Wild Riddle,104,14A,3.22,7.63,false,false,false
+1056,Voyage of the Crimson Storm,96,A,6.79,7.88,false,false,false
+1057,Beyond the First Awakening,139,PG,4.62,9.61,false,false,true
+1058,Shadow of the Silent Kingdom,151,R,4.90,6.42,false,false,false
+1059,The Silent Mirage,128,G,6.99,8.24,false,false,false
+1060,Golden Promise,152,G,5.08,7.51,false,false,false
+1061,Empire of the Fading Riddle,110,14A,5.74,9.42,false,false,false
+1062,Into the Legacy,169,18A,6.64,9.97,false,true,false
+1063,Silent Frontier,90,18A,5.61,9.85,false,true,false
+1064,Beyond the Radiant Legacy,160,14A,4.15,5.88,true,false,false
+1065,Rise of the Kingdom,97,R,5.77,8.18,false,false,true
+1066,Last Echo,106,14A,3.18,5.24,true,false,false
+1067,Beyond the Hidden Storm,104,G,3.99,6.64,false,false,false
+1068,Ghostly Odyssey,165,A,5.16,6.98,false,true,false
+1069,Beyond the Dark Voyage,104,18A,4.08,7.20,false,false,false
+1070,Infinite Riddle,137,R,3.86,7.86,false,true,false
+1071,Beyond the Lonely Shadow,156,R,6.19,9.33,true,false,false
+1072,Stormy Frontier,134,18A,3.13,6.93,false,false,false
+1073,Beyond the Lonely Promise,128,R,3.80,5.39,false,false,false
+1074,Lost Legacy,139,18A,3.02,7.59,false,false,false
+1075,Chronicles of the Fading Echo,128,14A,6.02,7.19,false,false,true
+1076,Chronicles of the Radiant Reckoning,110,PG,4.80,7.50,true,false,false
+1077,Lonely Whisper,85,R,4.74,7.81,false,false,false
+1078,Chronicles of the Radiant Horizon,118,A,3.01,7.98,false,false,false
+1079,Memory of the Fading Riddle,104,PG,4.02,8.03,false,false,false
+1080,Rise of the Frontier,81,18A,5.69,8.38,false,false,false
+1081,The Golden Awakening,158,A,3.83,6.88,false,false,false
+1082,Chronicles of the Hidden Labyrinth,160,G,4.16,8.87,false,false,false
+1083,The Fading Awakening,105,G,3.41,5.15,false,false,false
+1084,Voyage of the Shattered Secret,163,PG,5.93,7.95,false,true,false
+1085,Last Pulse,153,A,3.11,7.84,false,false,false
+1086,Chronicles of the Radiant Storm,94,PG,5.10,7.31,false,false,false
+1087,The Golden Kingdom,89,R,4.58,9.23,true,false,false
+1088,The Radiant Odyssey,174,A,3.76,7.62,true,false,false
+1089,Beyond the First Whisper,136,14A,3.98,5.13,false,true,true
+1090,Rise of the Awakening,130,A,6.81,9.28,false,false,false
+1091,Memory of the Dark Whisper,82,PG,4.37,5.93,true,true,true
+1092,Odyssey of the Infinite Memory,159,G,6.10,8.09,true,true,false
+1093,Chronicles of the Infinite Odyssey,119,A,5.74,10.00,false,false,false
+1094,Beyond the Golden Reckoning,97,G,4.42,6.82,false,false,false
+1095,Rise of the Echo,127,18A,6.27,10.08,false,true,true
+1096,Frontier of the Lonely Secret,84,18A,6.03,8.04,false,false,false
+1097,Beyond the Lost Mirage,118,18A,6.47,9.24,false,false,false
+1098,Beyond the Lost Frontier,93,G,6.53,10.52,false,false,false
+1099,Chronicles of the Lost Frontier,144,G,6.25,8.03,false,false,false
+1100,Ghostly Frontier,179,A,4.50,8.18,false,false,false
+1101,Golden Labyrinth,95,G,5.93,8.68,false,false,false
+1102,The Crimson Awakening,100,A,3.65,6.21,false,false,false
+1103,Frontier of the Furious Voyage,151,R,3.14,6.72,true,false,false
+1104,Legacy of the Shattered Riddle,93,14A,4.20,7.51,false,false,false
+1105,Golden Frontier,161,18A,5.24,8.43,false,true,false
+1106,Chronicles of the Crimson Pulse,127,A,6.98,9.98,true,false,false
+1107,The Shattered Legacy,109,14A,4.96,9.70,false,false,false
+1108,Chronicles of the Lost Pulse,153,18A,4.67,5.75,false,false,false
+1109,Beyond the Brave Echo,145,R,4.83,8.15,true,false,false
+1110,Brave Reckoning,89,PG,4.63,6.26,true,true,false
+1111,Shadow of the Ghostly Whisper,131,A,3.78,6.69,false,false,false
+1112,Odyssey of the Golden Mirage,142,PG,4.27,7.41,false,false,false
+1113,Labyrinth of the Brave Mirage,124,A,5.61,8.01,false,false,false
+1114,The Savage Promise,161,PG,3.91,8.73,true,false,false
+1115,Odyssey of the Fading Frontier,163,14A,6.75,10.73,false,false,false
+1116,Shattered Frontier,112,14A,3.86,8.76,false,false,false
+1117,Chronicles of the Hidden Echo,149,A,5.01,9.92,false,false,false
+1118,Chronicles of the Lost Promise,153,18A,5.67,10.67,false,true,false
+1119,Reckoning of the Brave Whisper,104,R,6.45,10.53,false,false,false
+1120,Chronicles of the First Kingdom,136,R,4.36,6.53,false,false,false
+1121,Shattered Legacy,149,R,3.06,4.60,false,false,false
+1122,The Last Shadow,82,R,4.49,6.75,false,false,false
+1123,Chronicles of the Stormy Promise,179,R,3.17,5.22,false,true,false
+1124,Mirage of the Radiant Legacy,135,18A,3.98,7.17,false,false,false
+1125,Chronicles of the Crimson Awakening,90,18A,4.82,9.56,false,false,false
+1126,The Hidden Mirage,116,14A,6.62,9.35,false,false,false
+1127,Horizon of the Silent Awakening,116,G,4.38,6.79,true,false,false
+1128,The First Promise,179,G,3.92,6.09,false,false,false
+1129,Beyond the Lonely Odyssey,149,R,4.40,7.18,false,false,false
+1130,Chronicles of the Crimson Odyssey,152,18A,3.30,7.22,false,false,false
+1131,Chronicles of the Broken Voyage,147,G,3.20,5.88,false,false,false
+1132,Beyond the Silent Echo,148,PG,6.50,9.15,false,false,false
+1133,Beyond the Ghostly Kingdom,168,R,5.73,7.44,false,false,false
+1134,Chronicles of the Golden Storm,138,PG,4.05,7.45,false,true,false
+1135,Chronicles of the Last Labyrinth,97,14A,5.49,6.83,false,false,false
+1136,The Furious Pulse,133,18A,4.59,8.50,false,false,false
+1137,Beyond the Infinite Empire,124,G,3.30,6.16,false,true,false
+1138,Chronicles of the Fading Storm,169,18A,6.85,9.01,false,true,false
+1139,Beyond the Lonely Empire,95,A,3.49,8.46,true,true,false
+1140,Frontier of the Ghostly Awakening,111,14A,3.37,5.75,false,false,false
+1141,Voyage of the Wild Reckoning,108,R,5.84,9.49,false,false,false
+1142,Awakening of the Broken Legacy,140,18A,4.24,5.66,false,true,false
+1143,Beyond the Savage Labyrinth,177,14A,6.24,8.92,false,false,false
+1144,Beyond the Dark Labyrinth,175,14A,4.55,6.05,false,true,true
+1145,Pulse of the Shattered Memory,126,PG,4.30,8.97,false,false,false
+1146,Echo of the Broken Memory,158,18A,6.06,7.54,false,false,false
+1147,The Furious Storm,158,R,3.15,5.44,true,false,false
+1148,Stormy Empire,120,R,4.37,6.72,false,false,false
+1149,Beyond the Crimson Memory,149,R,6.58,8.73,true,false,false
+1150,Reckoning of the Stormy Echo,91,R,6.00,9.83,false,false,true
+1151,Beyond the First Voyage,100,PG,4.86,8.76,false,true,false
+1152,Chronicles of the Wild Odyssey,178,A,5.64,7.80,false,false,false
+1153,Lost Pulse,157,14A,5.58,10.07,false,true,true
+1154,Dark Empire,134,A,4.60,9.30,false,true,false
+1155,The Lonely Voyage,156,14A,3.72,8.00,false,false,false
+1156,Empire of the Fading Labyrinth,145,R,6.64,9.45,false,false,false
+1157,Into the Mirage,179,G,4.18,7.49,false,false,false
+1158,Brave Labyrinth,144,G,5.20,7.20,false,false,false
+1159,Broken Odyssey,145,A,3.88,5.03,false,false,false
+1160,Kingdom of the Shattered Frontier,123,PG,3.86,7.66,false,true,false
+1161,Memory of the Dark Reckoning,100,A,6.39,8.32,true,false,false
+1162,Beyond the Lost Storm,120,14A,3.84,8.79,false,false,false
+1163,The Last Whisper,153,PG,3.51,7.27,false,true,false
+1164,Beyond the Infinite Echo,167,PG,5.07,7.21,false,false,true
+1165,Chronicles of the First Frontier,89,R,5.27,8.69,true,false,false
+1166,Beyond the Last Frontier,153,14A,6.82,9.78,true,false,false
+1167,Storm of the Hidden Whisper,116,18A,3.05,5.10,true,false,false
+1168,Reckoning of the Radiant Storm,166,G,5.50,6.91,false,false,false
+1169,Chronicles of the Crimson Horizon,136,R,3.45,7.11,false,true,false
+1170,Return of the Pulse,86,PG,4.44,7.93,true,false,false
+1171,The Ghostly Storm,152,A,4.69,9.15,false,true,false
+1172,First Secret,103,14A,4.25,6.46,true,false,false
+1173,Chronicles of the Crimson Legacy,122,R,4.58,7.96,false,false,false
+1174,Beyond the Stormy Secret,151,R,6.56,8.93,false,false,true
+1175,Chronicles of the Infinite Reckoning,124,A,4.04,6.73,true,false,false
+1176,Ghostly Horizon,137,PG,6.90,11.40,false,true,false
+1177,Beyond the Golden Whisper,113,14A,5.98,10.17,false,false,false
+1178,Beyond the Lonely Voyage,80,PG,5.70,9.87,false,false,false
+1179,Mirage of the Broken Echo,122,R,3.47,5.71,false,false,false
+1180,The Hidden Echo,119,PG,5.86,8.16,true,false,false
+1181,Brave Legacy,145,A,4.54,5.64,false,false,false
+1182,Beyond the Ghostly Mirage,109,R,3.72,8.65,false,true,false
+1183,The Furious Kingdom,155,14A,3.82,4.96,true,true,true
+1184,The First Mirage,83,R,5.15,6.69,false,true,false
+1185,Wild Whisper,84,R,4.55,9.29,false,false,false
+1186,Return of the Reckoning,152,18A,4.05,8.45,true,false,false
+1187,Beyond the Savage Storm,132,18A,5.14,8.08,true,false,false
+1188,The First Memory,117,PG,3.27,7.96,false,false,false
+1189,Shattered Horizon,177,R,4.56,9.29,false,false,true
+1190,Into the Labyrinth,112,14A,3.32,7.49,false,false,false
+1191,Chronicles of the Broken Shadow,163,G,4.90,6.38,false,false,false
+1192,Chronicles of the Broken Secret,142,14A,5.14,8.65,false,false,false
+1193,Chronicles of the Stormy Reckoning,159,A,5.46,7.24,false,false,false
+1194,Awakening of the Wild Reckoning,107,PG,4.56,6.08,false,false,false
+1195,Legacy of the Savage Awakening,85,PG,4.93,6.35,true,false,false
+1196,Beyond the Brave Mirage,80,18A,5.37,8.29,false,false,false
+1197,The Brave Legacy,89,G,3.49,5.15,false,false,true
+1198,The Radiant Frontier,95,14A,3.11,5.04,false,true,false
+1199,The Lost Awakening,142,18A,3.90,5.26,false,true,true
+1200,Rise of the Empire,140,G,6.52,10.02,true,false,false
